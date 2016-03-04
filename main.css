@@ -34,11 +34,11 @@ img.rocket {
 	html, body {
 	  height: 100%;
 	  font-family: "quicksand", Verdana, Tahoma;
-	  font-size:1.6em;
+	  font-size:1.7em;
 	}
 
 	.epic-count-down-container{
-		margin-top:2%;
+		margin-top:3%;
 	}
 
 	img.rocket {
