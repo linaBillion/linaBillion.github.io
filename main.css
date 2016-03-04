@@ -10,8 +10,8 @@ html, body {
 }
 
 .time-left-text {
-	margin-top:5%;
-	margin-bottom:5%;
+	margin-top:2%;
+	margin-bottom:2%;
 }
 
 .epic-count-down-container {
@@ -19,11 +19,11 @@ html, body {
 	text-align:center;
 	/*margin-top:10%;*/
 	padding:10%;
-	padding-top:5%;
+	padding-top:2%;
 }
 
 img.rocket {
-	width: 35%;
+	width: 33%;
 }
 
 .time{
@@ -34,11 +34,11 @@ img.rocket {
 	html, body {
 	  height: 100%;
 	  font-family: "quicksand", Verdana, Tahoma;
-	  font-size:1.5em;
+	  font-size:1.8em;
 	}
 
 	.epic-count-down-container{
-		margin-top:15%;
+		margin-top:8%;
 	}
 
 	img.rocket {
@@ -47,8 +47,8 @@ img.rocket {
 	}
 
 	.time-left-text {
-		margin-top:15%;
-		margin-bottom:15%;
+		margin-top:10%;
+		margin-bottom:10%;
 
 	}
 }
